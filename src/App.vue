@@ -6,9 +6,11 @@
 
 <script>
 import Notes from './components/notes/Index'
+import CreateNoteForm from './components/notes/Create'
 export default {
   components: {
-    Notes
+    Notes,
+    CreateNoteForm
   }
 }
 </script>

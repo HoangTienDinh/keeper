@@ -1,6 +1,10 @@
 <template>
   <div class="notes">
-    <note v-for="note in notes" :note="note"> </note>
+      <note
+        v-for="note in notes"
+        :note="note"
+        >
+      </note>
   </div>
 </template>
 

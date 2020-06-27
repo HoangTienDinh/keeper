@@ -1,6 +1,6 @@
 <template>
   <div class="note">
-    <h1>{{ note.title }}</h1>
+    <h1>{{ note.title }} asdasdasd</h1>
     <pre>{{ note.content }}</pre>
   </div>
 </template>
