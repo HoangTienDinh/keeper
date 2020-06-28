@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <notes></notes>
+    <createNoteForm></createNoteForm>
   </div>
 </template>
 
